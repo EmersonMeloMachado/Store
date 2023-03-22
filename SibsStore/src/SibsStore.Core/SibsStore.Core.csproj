@@ -1,0 +1,41 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="FluentValidation" />
+    <None Remove="MediatR" />
+    <None Remove="Communication\" />
+    <None Remove="Data\" />
+    <None Remove="DomainObjects\" />
+    <None Remove="Extensions\" />
+    <None Remove="Messages\" />
+    <None Remove="Communication\Mediator\" />
+    <None Remove="Messages\CommonMessages\" />
+    <None Remove="Messages\CommonMessages\DomainEvents\" />
+    <None Remove="Messages\CommonMessages\IntegrationEvents\" />
+    <None Remove="Messages\CommonMessages\Notifications\" />
+    <None Remove="DomainObjects\DTO\" />
+    <None Remove="Data\EventSourcing\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="11.5.1" />
+    <PackageReference Include="MediatR" Version="12.0.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Communication\" />
+    <Folder Include="Data\" />
+    <Folder Include="DomainObjects\" />
+    <Folder Include="Extensions\" />
+    <Folder Include="Messages\" />
+    <Folder Include="Communication\Mediator\" />
+    <Folder Include="Messages\CommonMessages\" />
+    <Folder Include="Messages\CommonMessages\DomainEvents\" />
+    <Folder Include="Messages\CommonMessages\IntegrationEvents\" />
+    <Folder Include="Messages\CommonMessages\Notifications\" />
+    <Folder Include="DomainObjects\DTO\" />
+    <Folder Include="Data\EventSourcing\" />
+  </ItemGroup>
+</Project>

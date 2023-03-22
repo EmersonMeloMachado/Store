@@ -1,0 +1,10 @@
+/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.Core/bin/Debug/netcoreapp3.1/SibsStore.Core.deps.json
+/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.Core/bin/Debug/netcoreapp3.1/SibsStore.Core.dll
+/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.Core/bin/Debug/netcoreapp3.1/SibsStore.Core.pdb
+/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.Core/obj/Debug/netcoreapp3.1/SibsStore.Core.csproj.AssemblyReference.cache
+/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.Core/obj/Debug/netcoreapp3.1/SibsStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.Core/obj/Debug/netcoreapp3.1/SibsStore.Core.AssemblyInfoInputs.cache
+/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.Core/obj/Debug/netcoreapp3.1/SibsStore.Core.AssemblyInfo.cs
+/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.Core/obj/Debug/netcoreapp3.1/SibsStore.Core.csproj.CoreCompileInputs.cache
+/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.Core/obj/Debug/netcoreapp3.1/SibsStore.Core.dll
+/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.Core/obj/Debug/netcoreapp3.1/SibsStore.Core.pdb

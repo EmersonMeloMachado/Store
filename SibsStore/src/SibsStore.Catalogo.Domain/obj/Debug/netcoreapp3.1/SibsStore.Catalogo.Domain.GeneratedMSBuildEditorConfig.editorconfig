@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = SibsStore.Catalogo.Domain
+build_property.ProjectDir = /Users/emersonmachado/Desktop/SibsStore/src/SibsStore.Catalogo.Domain/

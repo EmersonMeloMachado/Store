@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/SibsStore.WebApp.MVC.props" />
+</Project>

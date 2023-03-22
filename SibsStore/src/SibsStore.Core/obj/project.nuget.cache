@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "iCiodUkzGX/wfWYJWTStQinPd0PnbEoodfBRjUdJqIRnSGzWO46WBZ86I+gjMW6pfUA+LL1ozmGbbJVxiNw2iw==",
+  "success": true,
+  "projectFilePath": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.Core/SibsStore.Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/emersonmachado/.nuget/packages/fluentvalidation/11.5.1/fluentvalidation.11.5.1.nupkg.sha512",
+    "/Users/emersonmachado/.nuget/packages/mediatr/12.0.1/mediatr.12.0.1.nupkg.sha512",
+    "/Users/emersonmachado/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/emersonmachado/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

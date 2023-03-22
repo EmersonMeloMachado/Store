@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{30BA6739-A121-4644-91DD-624DB66D1770}|Default">
+  <DisabledProjects>
+    <String>src/SibsStore.Catalogo.Application/SibsStore.Catalogo.Data/SibsStore.Catalogo.Data.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/SibsStore.WebApp.MVC/appsettings.json">
+    <Files>
+      <File FileName="src/SibsStore.WebApp.MVC/Setup/DependencyInjection.cs" />
+      <File FileName="src/SibsStore.Catalogo.Data/CatalogoContext.cs" Line="44" Column="13" />
+      <File FileName="src/SibsStore.Catalogo.Domain/Produto.cs" />
+      <File FileName="src/SibsStore.Catalogo.Data/Mappings/CategoriaMapping.cs" />
+      <File FileName="src/SibsStore.Catalogo.Data/Mappings/ProdutoMapping.cs" />
+      <File FileName="src/SibsStore.WebApp.MVC/appsettings.json" Line="3" Column="90" />
+      <File FileName="src/SibsStore.WebApp.MVC/Startup.cs" Line="45" Column="16" />
+      <File FileName="src/SibsStore.WebApp.MVC/Data/ApplicationDbContext.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SibsStore" expanded="True">
+            <Node name="Services" expanded="True">
+              <Node name="Catalogo" expanded="True" />
+            </Node>
+            <Node name="WebApps" expanded="True">
+              <Node name="SibsStore.WebApp.MVC" expanded="True">
+                <Node name="Data" expanded="True" />
+                <Node name="appsettings.json" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.WebApps.SibsStore.WebApp.MVC PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,31 @@
+version: '2'
+
+volumes:
+  data-volume:
+  db_custom-mysql-data:
+    driver: local
+
+services:
+  mysql:
+    image: mysql:8.0
+    command: mysqld --default-authentication-plugin=mysql_native_password
+    container_name: db_custom-mysql
+    volumes:
+      - db_custom-mysql-data:/var/lib/mysql
+    ports:
+      - "3306:3306"
+    environment:
+      - MYSQL_ROOT_PASSWORD=db_custom
+      - MYSQL_DATABASE=db_custom
+      - MYSQL_USER=db_custom
+      - MYSQL_PASSWORD=db_custom
+
+  sqlserver:
+    image: mcr.microsoft.com/azure-sql-edge
+    container_name: db_custom-sqlserver
+    environment:
+      SA_PASSWORD: "SqlServer2019!"
+      ACCEPT_EULA: "Y"
+      MSSQL_PID: "Developer"
+    ports:
+      - "1433:1433"
