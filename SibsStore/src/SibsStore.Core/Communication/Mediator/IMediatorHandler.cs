@@ -1,7 +1,7 @@
 ﻿using System.Threading.Tasks;
 using SibsStore.Core.Messages;
+using SibsStore.Core.Messages.CommonMessages.Notifications;
 using SibsStore.Core.Messages.CommonMessages.DomainEvents;
-//using Sibs.Core.Messages.CommonMessages.Notifications;
 
 namespace SibsStore.Core.Communication.Mediator
 {
@@ -9,7 +9,7 @@ namespace SibsStore.Core.Communication.Mediator
     {
         Task PublicarEvento<T>(T evento) where T : Event;
         Task<bool> EnviarComando<T>(T comando) where T : Command;
-        //Task PublicarNotificacao<T>(T notificacao) where T : DomainNotification;
+        Task PublicarNotificacao<T>(T notificacao) where T : DomainNotification;
         Task PublicarDomainEvent<T>(T notificacao) where T : DomainEvent;
     }
 }

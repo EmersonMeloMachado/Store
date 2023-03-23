@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "JPw3KkyLolDe9NTPnP5DoRBdi+aOQxjn/Fr6rUurecg=",
+  "Hash": "NnMnsjJr8bw42fHlYm5D9HxgIe+Cj+iqPUxyv8Ikh5g=",
   "Source": "SibsStore.WebApp.MVC",
   "BasePath": "_content/SibsStore.WebApp.MVC",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "SibsStore.WebApp.MVC/wwwroot",
       "Source": "SibsStore.WebApp.MVC",
-      "ContentRoot": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
+      "ContentRoot": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
       "BasePath": "_content/SibsStore.WebApp.MVC",
       "Pattern": "**"
     }
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "/Users/emersonmachado/.nuget/packages/microsoft.aspnetcore.identity.ui/7.0.4/staticwebassets/V5/lib/jquery/LICENSE.txt"
     },
     {
-      "Identity": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/css/site.css",
+      "Identity": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/css/site.css",
       "SourceId": "SibsStore.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
+      "ContentRoot": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
       "BasePath": "_content/SibsStore.WebApp.MVC",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
-      "Identity": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/favicon.ico",
+      "Identity": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/favicon.ico",
       "SourceId": "SibsStore.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
+      "ContentRoot": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
       "BasePath": "_content/SibsStore.WebApp.MVC",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1071,10 +1071,163 @@
       "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
-      "Identity": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/js/site.js",
+      "Identity": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/Images/camiseta1.jpg",
       "SourceId": "SibsStore.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
+      "ContentRoot": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
+      "BasePath": "_content/SibsStore.WebApp.MVC",
+      "RelativePath": "Images/camiseta1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/camiseta1.jpg"
+    },
+    {
+      "Identity": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/Images/camiseta2.jpg",
+      "SourceId": "SibsStore.WebApp.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
+      "BasePath": "_content/SibsStore.WebApp.MVC",
+      "RelativePath": "Images/camiseta2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/camiseta2.jpg"
+    },
+    {
+      "Identity": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/Images/camiseta3.jpg",
+      "SourceId": "SibsStore.WebApp.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
+      "BasePath": "_content/SibsStore.WebApp.MVC",
+      "RelativePath": "Images/camiseta3.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/camiseta3.jpg"
+    },
+    {
+      "Identity": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/Images/camiseta4.jpg",
+      "SourceId": "SibsStore.WebApp.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
+      "BasePath": "_content/SibsStore.WebApp.MVC",
+      "RelativePath": "Images/camiseta4.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/camiseta4.jpg"
+    },
+    {
+      "Identity": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/Images/caneca1.jpg",
+      "SourceId": "SibsStore.WebApp.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
+      "BasePath": "_content/SibsStore.WebApp.MVC",
+      "RelativePath": "Images/caneca1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/caneca1.jpg"
+    },
+    {
+      "Identity": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/Images/caneca2.jpg",
+      "SourceId": "SibsStore.WebApp.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
+      "BasePath": "_content/SibsStore.WebApp.MVC",
+      "RelativePath": "Images/caneca2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/caneca2.jpg"
+    },
+    {
+      "Identity": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/Images/caneca3.jpg",
+      "SourceId": "SibsStore.WebApp.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
+      "BasePath": "_content/SibsStore.WebApp.MVC",
+      "RelativePath": "Images/caneca3.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/caneca3.jpg"
+    },
+    {
+      "Identity": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/Images/caneca4.jpg",
+      "SourceId": "SibsStore.WebApp.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
+      "BasePath": "_content/SibsStore.WebApp.MVC",
+      "RelativePath": "Images/caneca4.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/caneca4.jpg"
+    },
+    {
+      "Identity": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/Images/cards.png",
+      "SourceId": "SibsStore.WebApp.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
+      "BasePath": "_content/SibsStore.WebApp.MVC",
+      "RelativePath": "Images/cards.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/cards.png"
+    },
+    {
+      "Identity": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/js/site.js",
+      "SourceId": "SibsStore.WebApp.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
       "BasePath": "_content/SibsStore.WebApp.MVC",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1088,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot/js/site.js"
     },
     {
-      "Identity": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "Identity": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "SourceId": "SibsStore.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
+      "ContentRoot": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
       "BasePath": "_content/SibsStore.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1105,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Identity": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "Identity": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "SourceId": "SibsStore.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
+      "ContentRoot": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
       "BasePath": "_content/SibsStore.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1122,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Identity": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "Identity": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "SourceId": "SibsStore.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
+      "ContentRoot": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
       "BasePath": "_content/SibsStore.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1139,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Identity": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "Identity": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "SourceId": "SibsStore.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
+      "ContentRoot": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
       "BasePath": "_content/SibsStore.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1156,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "Identity": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "SourceId": "SibsStore.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
+      "ContentRoot": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
       "BasePath": "_content/SibsStore.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1173,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Identity": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "Identity": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "SourceId": "SibsStore.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
+      "ContentRoot": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
       "BasePath": "_content/SibsStore.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1190,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Identity": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "Identity": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "SourceId": "SibsStore.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
+      "ContentRoot": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
       "BasePath": "_content/SibsStore.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1207,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Identity": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "Identity": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "SourceId": "SibsStore.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
+      "ContentRoot": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
       "BasePath": "_content/SibsStore.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1224,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "Identity": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "SourceId": "SibsStore.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
+      "ContentRoot": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
       "BasePath": "_content/SibsStore.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1241,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Identity": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "Identity": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "SourceId": "SibsStore.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
+      "ContentRoot": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
       "BasePath": "_content/SibsStore.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1258,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Identity": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "Identity": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
       "SourceId": "SibsStore.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
+      "ContentRoot": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
       "BasePath": "_content/SibsStore.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1275,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Identity": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "Identity": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "SourceId": "SibsStore.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
+      "ContentRoot": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
       "BasePath": "_content/SibsStore.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1292,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Identity": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "Identity": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "SourceId": "SibsStore.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
+      "ContentRoot": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
       "BasePath": "_content/SibsStore.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1309,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Identity": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "Identity": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "SourceId": "SibsStore.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
+      "ContentRoot": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
       "BasePath": "_content/SibsStore.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1326,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Identity": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "Identity": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "SourceId": "SibsStore.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
+      "ContentRoot": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
       "BasePath": "_content/SibsStore.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1343,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Identity": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "Identity": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "SourceId": "SibsStore.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
+      "ContentRoot": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
       "BasePath": "_content/SibsStore.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1360,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "Identity": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "SourceId": "SibsStore.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
+      "ContentRoot": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
       "BasePath": "_content/SibsStore.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1377,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Identity": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "Identity": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "SourceId": "SibsStore.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
+      "ContentRoot": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
       "BasePath": "_content/SibsStore.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1394,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Identity": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "Identity": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "SourceId": "SibsStore.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
+      "ContentRoot": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
       "BasePath": "_content/SibsStore.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1411,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Identity": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "Identity": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "SourceId": "SibsStore.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
+      "ContentRoot": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
       "BasePath": "_content/SibsStore.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1428,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Identity": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/LICENSE",
+      "Identity": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/LICENSE",
       "SourceId": "SibsStore.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
+      "ContentRoot": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
       "BasePath": "_content/SibsStore.WebApp.MVC",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1445,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/LICENSE"
     },
     {
-      "Identity": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "Identity": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "SourceId": "SibsStore.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
+      "ContentRoot": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
       "BasePath": "_content/SibsStore.WebApp.MVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1462,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "Identity": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "SourceId": "SibsStore.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
+      "ContentRoot": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
       "BasePath": "_content/SibsStore.WebApp.MVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1479,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "Identity": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "SourceId": "SibsStore.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
+      "ContentRoot": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
       "BasePath": "_content/SibsStore.WebApp.MVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1496,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Identity": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "Identity": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "SourceId": "SibsStore.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
+      "ContentRoot": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
       "BasePath": "_content/SibsStore.WebApp.MVC",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1513,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Identity": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "Identity": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "SourceId": "SibsStore.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
+      "ContentRoot": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
       "BasePath": "_content/SibsStore.WebApp.MVC",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1530,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Identity": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "Identity": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "SourceId": "SibsStore.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
+      "ContentRoot": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
       "BasePath": "_content/SibsStore.WebApp.MVC",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1547,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Identity": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "Identity": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "SourceId": "SibsStore.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
+      "ContentRoot": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
       "BasePath": "_content/SibsStore.WebApp.MVC",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1564,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Identity": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/jquery-validation/LICENSE.md",
+      "Identity": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/jquery-validation/LICENSE.md",
       "SourceId": "SibsStore.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
+      "ContentRoot": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
       "BasePath": "_content/SibsStore.WebApp.MVC",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1581,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Identity": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/jquery/dist/jquery.js",
+      "Identity": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/jquery/dist/jquery.js",
       "SourceId": "SibsStore.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
+      "ContentRoot": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
       "BasePath": "_content/SibsStore.WebApp.MVC",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1598,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.js"
     },
     {
-      "Identity": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/jquery/dist/jquery.min.js",
+      "Identity": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/jquery/dist/jquery.min.js",
       "SourceId": "SibsStore.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
+      "ContentRoot": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
       "BasePath": "_content/SibsStore.WebApp.MVC",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1615,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Identity": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/jquery/dist/jquery.min.map",
+      "Identity": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/jquery/dist/jquery.min.map",
       "SourceId": "SibsStore.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
+      "ContentRoot": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
       "BasePath": "_content/SibsStore.WebApp.MVC",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1632,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.map"
     },
     {
-      "Identity": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/jquery/LICENSE.txt",
+      "Identity": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/jquery/LICENSE.txt",
       "SourceId": "SibsStore.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
+      "ContentRoot": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/",
       "BasePath": "_content/SibsStore.WebApp.MVC",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",

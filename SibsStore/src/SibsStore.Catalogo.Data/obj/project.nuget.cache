@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ri/H4aIXyxidjVl0qGDIWfQlJ7DS2w9ss8zMYKvSP0JQfwavtC5OBQNSD+kKyZaxfo1vHgX/xOTtpSAU1AhmIg==",
+  "dgSpecHash": "uMuV/PCfMffCVLqzYYKbLldbDJgT1aTLJO9eigC9hTCw7ywSXEsLutLMkVQanjMi8mTFgNdaZJ5FjVUc7QUg8g==",
   "success": true,
-  "projectFilePath": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.Catalogo.Data/SibsStore.Catalogo.Data.csproj",
+  "projectFilePath": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Catalogo.Data/SibsStore.Catalogo.Data.csproj",
   "expectedPackageFiles": [
     "/Users/emersonmachado/.nuget/packages/azure.core/1.24.0/azure.core.1.24.0.nupkg.sha512",
     "/Users/emersonmachado/.nuget/packages/azure.identity/1.6.0/azure.identity.1.6.0.nupkg.sha512",

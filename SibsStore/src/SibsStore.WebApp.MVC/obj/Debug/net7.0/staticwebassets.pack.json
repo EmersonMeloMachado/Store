@@ -1,147 +1,183 @@
 {
   "Files": [
     {
-      "Id": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/css/site.css",
+      "Id": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/Images/camiseta1.jpg",
+      "PackagePath": "staticwebassets/Images/camiseta1.jpg"
+    },
+    {
+      "Id": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/Images/camiseta2.jpg",
+      "PackagePath": "staticwebassets/Images/camiseta2.jpg"
+    },
+    {
+      "Id": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/Images/camiseta3.jpg",
+      "PackagePath": "staticwebassets/Images/camiseta3.jpg"
+    },
+    {
+      "Id": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/Images/camiseta4.jpg",
+      "PackagePath": "staticwebassets/Images/camiseta4.jpg"
+    },
+    {
+      "Id": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/Images/caneca1.jpg",
+      "PackagePath": "staticwebassets/Images/caneca1.jpg"
+    },
+    {
+      "Id": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/Images/caneca2.jpg",
+      "PackagePath": "staticwebassets/Images/caneca2.jpg"
+    },
+    {
+      "Id": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/Images/caneca3.jpg",
+      "PackagePath": "staticwebassets/Images/caneca3.jpg"
+    },
+    {
+      "Id": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/Images/caneca4.jpg",
+      "PackagePath": "staticwebassets/Images/caneca4.jpg"
+    },
+    {
+      "Id": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/Images/cards.png",
+      "PackagePath": "staticwebassets/Images/cards.png"
+    },
+    {
+      "Id": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
     {
-      "Id": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/favicon.ico",
+      "Id": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
-      "Id": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/js/site.js",
+      "Id": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
     },
     {
-      "Id": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/LICENSE",
+      "Id": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/LICENSE",
       "PackagePath": "staticwebassets/lib/bootstrap"
     },
     {
-      "Id": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "Id": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Id": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "Id": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Id": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "Id": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Id": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "Id": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Id": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "Id": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Id": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "Id": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Id": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "Id": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Id": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "Id": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "Id": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Id": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "Id": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Id": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "Id": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Id": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "Id": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Id": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "Id": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Id": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "Id": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Id": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "Id": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Id": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "Id": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "Id": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Id": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "Id": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Id": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "Id": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Id": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "Id": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Id": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "Id": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Id": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "Id": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "Id": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/jquery-validation/LICENSE.md",
+      "Id": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/jquery-validation/LICENSE.md",
       "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Id": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "Id": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Id": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "Id": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Id": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "Id": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Id": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "Id": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Id": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/jquery/LICENSE.txt",
+      "Id": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/jquery/LICENSE.txt",
       "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
     },
     {
-      "Id": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/jquery/dist/jquery.js",
+      "Id": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/jquery/dist/jquery.js",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
     },
     {
-      "Id": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/jquery/dist/jquery.min.js",
+      "Id": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/jquery/dist/jquery.min.js",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Id": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/jquery/dist/jquery.min.map",
+      "Id": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.WebApp.MVC/wwwroot/lib/jquery/dist/jquery.min.map",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
     },
     {

@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Pagamentos.Business/SibsStore.Pagamentos.Business.csproj": {}
+  },
+  "projects": {
+    "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Core/SibsStore.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Core/SibsStore.Core.csproj",
+        "projectName": "SibsStore.Core",
+        "projectPath": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Core/SibsStore.Core.csproj",
+        "packagesPath": "/Users/emersonmachado/.nuget/packages/",
+        "outputPath": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/emersonmachado/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/Users/emersonmachado/Documents/Projetos/mcx_express_ios/MCXWallet/MCXWallet.iOS/bindings/packages-good": {},
+          "/Users/emersonmachado/Documents/Projetos/mcx_express_ios/MCXWallet/MCXWallet.iOS/bindings/packages-good/dt.xamarin.lgsidemenucontroller": {},
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.5.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Pagamentos.Business/SibsStore.Pagamentos.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Pagamentos.Business/SibsStore.Pagamentos.Business.csproj",
+        "projectName": "SibsStore.Pagamentos.Business",
+        "projectPath": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Pagamentos.Business/SibsStore.Pagamentos.Business.csproj",
+        "packagesPath": "/Users/emersonmachado/.nuget/packages/",
+        "outputPath": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Pagamentos.Business/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/emersonmachado/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/Users/emersonmachado/Documents/Projetos/mcx_express_ios/MCXWallet/MCXWallet.iOS/bindings/packages-good": {},
+          "/Users/emersonmachado/Documents/Projetos/mcx_express_ios/MCXWallet/MCXWallet.iOS/bindings/packages-good/dt.xamarin.lgsidemenucontroller": {},
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Core/SibsStore.Core.csproj": {
+                "projectPath": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Core/SibsStore.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

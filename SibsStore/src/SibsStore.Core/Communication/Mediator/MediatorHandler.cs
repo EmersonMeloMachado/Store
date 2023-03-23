@@ -1,23 +1,28 @@
-﻿using System.Threading.Tasks;
+﻿
 using MediatR;
-//using Sibs.Core.Data.EventSourcing;
+using System.Threading.Tasks;
 using SibsStore.Core.Messages;
+using SibsStore.Core.Data.EventSourcing;
 using SibsStore.Core.Messages.CommonMessages.DomainEvents;
-//using Sibs.Core.Messages.CommonMessages.Notifications;
+using SibsStore.Core.Messages.CommonMessages.Notifications;
 
 namespace SibsStore.Core.Communication.Mediator
 {
     public class MediatorHandler : IMediatorHandler
     {
         private readonly IMediator _mediator;
-        //private readonly IEventSourcingRepository _eventSourcingRepository;
+        private readonly IEventSourcingRepository _eventSourcingRepository;
 
-        public MediatorHandler(IMediator mediator)//,
-                                                  //IEventSourcingRepository eventSourcingRepository)
+        public MediatorHandler(IMediator mediator)
         {
             _mediator = mediator;
-            //_eventSourcingRepository = eventSourcingRepository;
         }
+
+        //public MediatorHandler(IMediator mediator,IEventSourcingRepository eventSourcingRepository)
+        //{
+        //    _mediator = mediator;
+        //    _eventSourcingRepository = eventSourcingRepository;
+        //}
 
         public async Task<bool> EnviarComando<T>(T comando) where T : Command
         {
@@ -31,10 +36,10 @@ namespace SibsStore.Core.Communication.Mediator
 
         }
 
-        //public async Task PublicarNotificacao<T>(T notificacao) where T : DomainNotification
-        //{
-        //    await _mediator.Publish(notificacao);
-        //}
+        public async Task PublicarNotificacao<T>(T notificacao) where T : DomainNotification
+        {
+            await _mediator.Publish(notificacao);
+        }
 
         public async Task PublicarDomainEvent<T>(T notificacao) where T : DomainEvent
         {

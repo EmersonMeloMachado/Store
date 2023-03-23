@@ -3788,11 +3788,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.Catalogo.Data/SibsStore.Catalogo.Data.csproj",
+      "projectUniqueName": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Catalogo.Data/SibsStore.Catalogo.Data.csproj",
       "projectName": "SibsStore.Catalogo.Data",
-      "projectPath": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.Catalogo.Data/SibsStore.Catalogo.Data.csproj",
+      "projectPath": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Catalogo.Data/SibsStore.Catalogo.Data.csproj",
       "packagesPath": "/Users/emersonmachado/.nuget/packages/",
-      "outputPath": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.Catalogo.Data/obj/",
+      "outputPath": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Catalogo.Data/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/emersonmachado/.nuget/NuGet/NuGet.Config"
@@ -3810,11 +3810,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.Catalogo.Domain/SibsStore.Catalogo.Domain.csproj": {
-              "projectPath": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.Catalogo.Domain/SibsStore.Catalogo.Domain.csproj"
+            "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Catalogo.Domain/SibsStore.Catalogo.Domain.csproj": {
+              "projectPath": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Catalogo.Domain/SibsStore.Catalogo.Domain.csproj"
             },
-            "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.Core/SibsStore.Core.csproj": {
-              "projectPath": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.Core/SibsStore.Core.csproj"
+            "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Core/SibsStore.Core.csproj": {
+              "projectPath": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Core/SibsStore.Core.csproj"
             }
           }
         }

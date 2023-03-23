@@ -155,11 +155,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.Core/SibsStore.Core.csproj",
+      "projectUniqueName": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Core/SibsStore.Core.csproj",
       "projectName": "SibsStore.Core",
-      "projectPath": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.Core/SibsStore.Core.csproj",
+      "projectPath": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Core/SibsStore.Core.csproj",
       "packagesPath": "/Users/emersonmachado/.nuget/packages/",
-      "outputPath": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.Core/obj/",
+      "outputPath": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Core/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/emersonmachado/.nuget/NuGet/NuGet.Config"

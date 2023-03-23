@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Commands\" />
+    <None Remove="Events\" />
+    <None Remove="Queries\" />
+    <None Remove="Queries\ViewModels\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Commands\" />
+    <Folder Include="Events\" />
+    <Folder Include="Queries\" />
+    <Folder Include="Queries\ViewModels\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SibsStore.Core\SibsStore.Core.csproj" />
+    <ProjectReference Include="..\SibsStore.Vendas.Domain\SibsStore.Vendas.Domain.csproj" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,17 @@
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Vendas.Domain.Application/bin/Debug/net7.0/SibsStore.Vendas.Application.deps.json
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Vendas.Domain.Application/bin/Debug/net7.0/SibsStore.Vendas.Application.dll
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Vendas.Domain.Application/bin/Debug/net7.0/SibsStore.Vendas.Application.pdb
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Vendas.Domain.Application/bin/Debug/net7.0/SibsStore.Core.dll
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Vendas.Domain.Application/bin/Debug/net7.0/SibsStore.Vendas.Domain.dll
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Vendas.Domain.Application/bin/Debug/net7.0/SibsStore.Core.pdb
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Vendas.Domain.Application/bin/Debug/net7.0/SibsStore.Vendas.Domain.pdb
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Vendas.Domain.Application/obj/Debug/net7.0/SibsStore.Vendas.Application.csproj.AssemblyReference.cache
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Vendas.Domain.Application/obj/Debug/net7.0/SibsStore.Vendas.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Vendas.Domain.Application/obj/Debug/net7.0/SibsStore.Vendas.Application.AssemblyInfoInputs.cache
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Vendas.Domain.Application/obj/Debug/net7.0/SibsStore.Vendas.Application.AssemblyInfo.cs
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Vendas.Domain.Application/obj/Debug/net7.0/SibsStore.Vendas.Application.csproj.CoreCompileInputs.cache
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Vendas.Domain.Application/obj/Debug/net7.0/SibsStore.Vendas.Application.csproj.CopyComplete
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Vendas.Domain.Application/obj/Debug/net7.0/SibsStore.Vendas.Application.dll
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Vendas.Domain.Application/obj/Debug/net7.0/refint/SibsStore.Vendas.Application.dll
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Vendas.Domain.Application/obj/Debug/net7.0/SibsStore.Vendas.Application.pdb
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Vendas.Domain.Application/obj/Debug/net7.0/ref/SibsStore.Vendas.Application.dll

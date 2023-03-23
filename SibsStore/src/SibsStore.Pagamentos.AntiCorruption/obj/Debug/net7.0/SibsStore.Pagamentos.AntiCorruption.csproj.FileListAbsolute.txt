@@ -1,0 +1,17 @@
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Pagamentos.AntiCorruption/bin/Debug/net7.0/SibsStore.Pagamentos.AntiCorruption.deps.json
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Pagamentos.AntiCorruption/bin/Debug/net7.0/SibsStore.Pagamentos.AntiCorruption.dll
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Pagamentos.AntiCorruption/bin/Debug/net7.0/SibsStore.Pagamentos.AntiCorruption.pdb
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Pagamentos.AntiCorruption/bin/Debug/net7.0/SibsStore.Core.dll
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Pagamentos.AntiCorruption/bin/Debug/net7.0/SibsStore.Pagamentos.Business.dll
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Pagamentos.AntiCorruption/bin/Debug/net7.0/SibsStore.Pagamentos.Business.pdb
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Pagamentos.AntiCorruption/bin/Debug/net7.0/SibsStore.Core.pdb
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Pagamentos.AntiCorruption/obj/Debug/net7.0/SibsStore.Pagamentos.AntiCorruption.csproj.AssemblyReference.cache
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Pagamentos.AntiCorruption/obj/Debug/net7.0/SibsStore.Pagamentos.AntiCorruption.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Pagamentos.AntiCorruption/obj/Debug/net7.0/SibsStore.Pagamentos.AntiCorruption.AssemblyInfoInputs.cache
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Pagamentos.AntiCorruption/obj/Debug/net7.0/SibsStore.Pagamentos.AntiCorruption.AssemblyInfo.cs
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Pagamentos.AntiCorruption/obj/Debug/net7.0/SibsStore.Pagamentos.AntiCorruption.csproj.CoreCompileInputs.cache
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Pagamentos.AntiCorruption/obj/Debug/net7.0/SibsStore.Pagamentos.AntiCorruption.csproj.CopyComplete
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Pagamentos.AntiCorruption/obj/Debug/net7.0/SibsStore.Pagamentos.AntiCorruption.dll
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Pagamentos.AntiCorruption/obj/Debug/net7.0/refint/SibsStore.Pagamentos.AntiCorruption.dll
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Pagamentos.AntiCorruption/obj/Debug/net7.0/SibsStore.Pagamentos.AntiCorruption.pdb
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Pagamentos.AntiCorruption/obj/Debug/net7.0/ref/SibsStore.Pagamentos.AntiCorruption.dll

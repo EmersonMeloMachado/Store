@@ -1,4 +1,6 @@
 ﻿using System;
+using SibsStore.Core.Messages;
+using System.Collections.Generic;
 
 namespace SibsStore.Core.DomainObjects
 {
@@ -6,9 +8,28 @@ namespace SibsStore.Core.DomainObjects
     {
         public Guid Id { get; set; }
 
+        private List<Event> _notificacoes;
+        public IReadOnlyCollection<Event> Notificacoes => _notificacoes?.AsReadOnly();
+
         protected Entity()
         {
             Id = Guid.NewGuid();
+        }
+
+        public void AdicionarEvento(Event evento)
+        {
+            _notificacoes = _notificacoes ?? new List<Event>();
+            _notificacoes.Add(evento);
+        }
+
+        public void RemoverEvento(Event eventItem)
+        {
+            _notificacoes?.Remove(eventItem);
+        }
+
+        public void LimparEventos()
+        {
+            _notificacoes?.Clear();
         }
 
         public override bool Equals(object obj)
@@ -16,7 +37,7 @@ namespace SibsStore.Core.DomainObjects
             var compareTo = obj as Entity;
 
             if (ReferenceEquals(this, compareTo)) return true;
-            if (ReferenceEquals(this, compareTo)) return false;
+            if (ReferenceEquals(null, compareTo)) return false;
 
             return Id.Equals(compareTo.Id);
         }
@@ -26,7 +47,7 @@ namespace SibsStore.Core.DomainObjects
             if (ReferenceEquals(a, null) && ReferenceEquals(b, null))
                 return true;
 
-            if (ReferenceEquals(a, null) && ReferenceEquals(b, null))
+            if (ReferenceEquals(a, null) || ReferenceEquals(b, null))
                 return false;
 
             return a.Equals(b);
@@ -45,6 +66,11 @@ namespace SibsStore.Core.DomainObjects
         public override string ToString()
         {
             return $"{GetType().Name} [Id={Id}]";
+        }
+
+        public virtual bool EhValido()
+        {
+            throw new NotImplementedException();
         }
     }
 }

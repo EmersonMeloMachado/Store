@@ -10,6 +10,15 @@
     <None Remove="Extensions\" />
     <None Remove="AutoMapper.Extensions.Microsoft.DependencyInjection" />
     <None Remove="MediatR.Extensions.Microsoft.DependencyInjection" />
+    <None Remove="Controllers\Admin\" />
+    <None Remove="Views\AdminProdutos\" />
+    <None Remove="Views\Vitrine\" />
+    <None Remove="Views\Shared\Components\" />
+    <None Remove="Views\Shared\Components\Cart\" />
+    <None Remove="Views\Shared\Components\Summary\" />
+    <None Remove="Views\Carrinho\" />
+    <None Remove="Views\Eventos\" />
+    <None Remove="Views\Pedido\" />
   </ItemGroup>
   <ItemGroup>
     <None Update="app.db" CopyToOutputDirectory="PreserveNewest" ExcludeFromSingleFile="true" />
@@ -24,12 +33,22 @@
 <PrivateAssets>all</PrivateAssets>
 </PackageReference>
     <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.0" />
-    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="7.0.0" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="10.0.1" />
   </ItemGroup>
 
   <ItemGroup>
     <Folder Include="Setup\" />
     <Folder Include="Extensions\" />
+    <Folder Include="Controllers\Admin\" />
+    <Folder Include="Views\AdminProdutos\" />
+    <Folder Include="wwwroot\Images\" />
+    <Folder Include="Views\Vitrine\" />
+    <Folder Include="Views\Shared\Components\" />
+    <Folder Include="Views\Shared\Components\Cart\" />
+    <Folder Include="Views\Shared\Components\Summary\" />
+    <Folder Include="Views\Carrinho\" />
+    <Folder Include="Views\Eventos\" />
+    <Folder Include="Views\Pedido\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\SibsStore.Catalogo.Data\SibsStore.Catalogo.Data.csproj">
@@ -44,5 +63,26 @@
     <ProjectReference Include="..\SibsStore.Catalogo.Application\SibsStore.Catalogo.Application.csproj">
       <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
     </ProjectReference>
+    <ProjectReference Include="..\SibsStore.Vendas.Domain.Application\SibsStore.Vendas.Application.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
+    <ProjectReference Include="..\SibsStore.Vendas.Data\SibsStore.Vendas.Data.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
+    <ProjectReference Include="..\SibsStore.Pagamentos.AntiCorruption\SibsStore.Pagamentos.AntiCorruption.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
+    <ProjectReference Include="..\SibsStore.Pagamentos.Data\SibsStore.Pagamentos.Data.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
+    <ProjectReference Include="..\SibsStore.Pagamentos.Business\SibsStore.Pagamentos.Business.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
+    <ProjectReference Include="..\EventSourcing\EventSourcing.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="wwwroot\Images\" />
   </ItemGroup>
 </Project>

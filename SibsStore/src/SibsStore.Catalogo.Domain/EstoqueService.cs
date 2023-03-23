@@ -83,7 +83,9 @@ namespace SibsStore.Catalogo.Domain
         {
             var produto = await _produtoRepository.ObterPorId(produtoId);
 
-            if (produto == null) return false;
+            if (produto == null)
+                return false;
+
             produto.ReporEstoque(quantidade);
 
             _produtoRepository.Atualizar(produto);

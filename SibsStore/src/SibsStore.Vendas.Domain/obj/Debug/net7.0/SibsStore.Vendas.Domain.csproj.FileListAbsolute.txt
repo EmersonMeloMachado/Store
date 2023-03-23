@@ -1,0 +1,15 @@
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Vendas.Domain/bin/Debug/net7.0/SibsStore.Vendas.Domain.deps.json
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Vendas.Domain/bin/Debug/net7.0/SibsStore.Vendas.Domain.dll
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Vendas.Domain/bin/Debug/net7.0/SibsStore.Vendas.Domain.pdb
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Vendas.Domain/bin/Debug/net7.0/SibsStore.Core.dll
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Vendas.Domain/bin/Debug/net7.0/SibsStore.Core.pdb
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Vendas.Domain/obj/Debug/net7.0/SibsStore.Vendas.Domain.csproj.AssemblyReference.cache
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Vendas.Domain/obj/Debug/net7.0/SibsStore.Vendas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Vendas.Domain/obj/Debug/net7.0/SibsStore.Vendas.Domain.AssemblyInfoInputs.cache
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Vendas.Domain/obj/Debug/net7.0/SibsStore.Vendas.Domain.AssemblyInfo.cs
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Vendas.Domain/obj/Debug/net7.0/SibsStore.Vendas.Domain.csproj.CoreCompileInputs.cache
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Vendas.Domain/obj/Debug/net7.0/SibsStore.Vendas.Domain.csproj.CopyComplete
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Vendas.Domain/obj/Debug/net7.0/SibsStore.Vendas.Domain.dll
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Vendas.Domain/obj/Debug/net7.0/refint/SibsStore.Vendas.Domain.dll
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Vendas.Domain/obj/Debug/net7.0/SibsStore.Vendas.Domain.pdb
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Vendas.Domain/obj/Debug/net7.0/ref/SibsStore.Vendas.Domain.dll

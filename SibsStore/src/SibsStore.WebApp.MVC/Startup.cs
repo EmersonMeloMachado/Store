@@ -1,27 +1,27 @@
 ﻿using System;
-using System.Collections.Generic;
+using MediatR;
+using AutoMapper;
 using System.Linq;
+using System.Reflection;
+using SibsStore.Vendas.Data;
 using System.Threading.Tasks;
-using Microsoft.AspNetCore.Builder;
-using Microsoft.AspNetCore.Identity;
-using Microsoft.AspNetCore.Identity.UI;
-using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
-using Microsoft.EntityFrameworkCore;
+using SibsStore.Catalogo.Data;
+using Microsoft.AspNetCore.Mvc;
+using SibsStore.Pagamentos.Data;
+using Microsoft.AspNetCore.Http;
 using SibsStore.WebApp.MVC.Data;
+using System.Collections.Generic;
+using SibsStore.WebApp.MVC.Setup;
+using Microsoft.AspNetCore.Builder;
+using Microsoft.AspNetCore.Hosting;
+using Microsoft.Extensions.Hosting;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Identity.UI;
+using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Hosting;
-using AutoMapper;
-using MediatR;
-
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
 using SibsStore.Catalogo.Application.AutoMapper;
-using SibsStore.Catalogo.Data;
-//using SibsStore.Pagamentos.Data;
-//using SibsStore.Vendas.Data;
-using SibsStore.WebApp.MVC.Setup;
 
 namespace SibsStore.WebApp.MVC
 {
@@ -52,11 +52,11 @@ namespace SibsStore.WebApp.MVC
             services.AddDbContext<CatalogoContext>(options =>
                options.UseSqlServer(connection));
 
-            //services.AddDbContext<VendasContext>(options =>
-                //options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+            services.AddDbContext<VendasContext>(options =>
+                options.UseSqlServer(connection));
 
-            //services.AddDbContext<PagamentoContext>(options =>
-                //options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+            services.AddDbContext<PagamentoContext>(options =>
+                options.UseSqlServer(connection));
 
             services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
                 .AddEntityFrameworkStores<ApplicationDbContext>();
@@ -65,7 +65,8 @@ namespace SibsStore.WebApp.MVC
 
             services.AddAutoMapper(typeof(DomainToViewModelMappingProfile), typeof(ViewModelToDomainMappingProfile));
 
-            services.AddMediatR(typeof(Startup));
+            services.AddMediatR(cfg => cfg.RegisterServicesFromAssemblies(Assembly.GetExecutingAssembly()));
+            //services.AddMediatR(typeof(Startup));
 
             services.RegisterServices();
         }
@@ -96,7 +97,7 @@ namespace SibsStore.WebApp.MVC
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                    pattern: "{controller=Vitrine}/{action=Index}/{id?}");
                 endpoints.MapRazorPages();
             });
         }

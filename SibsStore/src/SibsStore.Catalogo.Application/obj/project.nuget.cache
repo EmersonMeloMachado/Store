@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XY+rfgbWyLUflYL5cAaa32c0fl9UI5MAT7vqTm0olNLycwnKF61ytaov3t1wNcl6nS5DJPJtEDtjgVqYRffz4Q==",
+  "dgSpecHash": "91r5kfsNAWfwBAu30iCGYRHsYFH62RewhiYSkcvCTUw3Oan2uPoJ3JobNv5J77jYT6z8x/eBrpr466HrDcNbsg==",
   "success": true,
-  "projectFilePath": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.Catalogo.Application/SibsStore.Catalogo.Application.csproj",
+  "projectFilePath": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Catalogo.Application/SibsStore.Catalogo.Application.csproj",
   "expectedPackageFiles": [
     "/Users/emersonmachado/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/Users/emersonmachado/.nuget/packages/azure.core/1.24.0/azure.core.1.24.0.nupkg.sha512",

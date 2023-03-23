@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iCiodUkzGX/wfWYJWTStQinPd0PnbEoodfBRjUdJqIRnSGzWO46WBZ86I+gjMW6pfUA+LL1ozmGbbJVxiNw2iw==",
+  "dgSpecHash": "NDbyxuWuVMfJ/qKC7qXR3otlOt16LP7PHI8p7TA9sHkIoyY7pmoxMma20IuLv0bQwOwaTDDGWPK/HnEMWyvvyQ==",
   "success": true,
-  "projectFilePath": "/Users/emersonmachado/Desktop/SibsStore/src/SibsStore.Core/SibsStore.Core.csproj",
+  "projectFilePath": "/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Core/SibsStore.Core.csproj",
   "expectedPackageFiles": [
     "/Users/emersonmachado/.nuget/packages/fluentvalidation/11.5.1/fluentvalidation.11.5.1.nupkg.sha512",
     "/Users/emersonmachado/.nuget/packages/mediatr/12.0.1/mediatr.12.0.1.nupkg.sha512",

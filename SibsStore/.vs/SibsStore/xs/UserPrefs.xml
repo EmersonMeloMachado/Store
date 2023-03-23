@@ -2,31 +2,61 @@
   <DisabledProjects>
     <String>src/SibsStore.Catalogo.Application/SibsStore.Catalogo.Data/SibsStore.Catalogo.Data.csproj</String>
   </DisabledProjects>
-  <MonoDevelop.Ide.Workbench ActiveDocument="src/SibsStore.WebApp.MVC/appsettings.json">
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/SibsStore.Vendas.Domain/Pedido.cs">
     <Files>
-      <File FileName="src/SibsStore.WebApp.MVC/Setup/DependencyInjection.cs" />
-      <File FileName="src/SibsStore.Catalogo.Data/CatalogoContext.cs" Line="44" Column="13" />
-      <File FileName="src/SibsStore.Catalogo.Domain/Produto.cs" />
-      <File FileName="src/SibsStore.Catalogo.Data/Mappings/CategoriaMapping.cs" />
-      <File FileName="src/SibsStore.Catalogo.Data/Mappings/ProdutoMapping.cs" />
-      <File FileName="src/SibsStore.WebApp.MVC/appsettings.json" Line="3" Column="90" />
-      <File FileName="src/SibsStore.WebApp.MVC/Startup.cs" Line="45" Column="16" />
-      <File FileName="src/SibsStore.WebApp.MVC/Data/ApplicationDbContext.cs" Line="1" Column="1" />
+      <File FileName="src/SibsStore.WebApp.MVC/Views/Pedido/Index.cshtml" Line="1" Column="29" />
+      <File FileName="src/SibsStore.WebApp.MVC/Views/Shared/_CookieConsentPartial.cshtml" Line="24" Column="1" />
+      <File FileName="src/SibsStore.WebApp.MVC/Views/Shared/_LoginPartial.cshtml" Line="1" Column="1" />
+      <File FileName="src/SibsStore.WebApp.MVC/Controllers/CarrinhoController.cs" Line="41" Column="1" />
+      <File FileName="src/SibsStore.Vendas.Domain.Application/Queries/PedidoQueries.cs" Line="19" Column="1" />
+      <File FileName="src/SibsStore.Vendas.Data/VendasContext.cs" Line="60" Column="1" />
+      <File FileName="src/SibsStore.Core/Communication/Mediator/MediatorHandler.cs" Line="12" Column="6" />
+      <File FileName="src/SibsStore.Core/Communication/Mediator/IMediatorHandler.cs" Line="1" Column="1" />
+      <File FileName="src/SibsStore.Vendas.Domain.Application/Commands/PedidoCommandHandler.cs" Line="43" Column="1" />
+      <File FileName="src/SibsStore.Vendas.Data/Repository/PedidoRepository.cs" Line="34" Column="1" />
+      <File FileName="src/SibsStore.Catalogo.Domain/Produto.cs" Line="38" Column="41" />
+      <File FileName="src/SibsStore.Vendas.Domain/Pedido.cs" Line="93" Column="1" />
+      <File FileName="src/SibsStore.Vendas.Domain/PedidoItem.cs" Line="7" Column="6" />
+      <File FileName="src/SibsStore.Vendas.Domain/Voucher.cs" Line="13" Column="24" />
+      <File FileName="src/SibsStore.Vendas.Data/MediatorExtension.cs" Line="11" Column="26" />
+      <File FileName="src/SibsStore.Vendas.Domain.Application/Events/PedidoItemAdicionadoEvent.cs" Line="15" Column="16" />
+      <File FileName="src/SibsStore.Vendas.Domain.Application/Events/PedidoProdutoAdicionadoEvent.cs" Line="1" Column="1" />
+      <File FileName="src/SibsStore.Vendas.Domain.Application/Events/PedidoProdutoAtualizadoEvent.cs" Line="1" Column="1" />
+      <File FileName="src/SibsStore.Vendas.Domain.Application/Events/PedidoEventHandler.cs" Line="27" Column="33" />
+      <File FileName="src/SibsStore.Vendas.Data/Migrations/20230323135249_StartMigration.cs" Line="42" Column="27" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SibsStore" expanded="True">
-            <Node name="Services" expanded="True">
-              <Node name="Catalogo" expanded="True" />
-            </Node>
-            <Node name="WebApps" expanded="True">
-              <Node name="SibsStore.WebApp.MVC" expanded="True">
-                <Node name="Data" expanded="True" />
-                <Node name="appsettings.json" selected="True" />
+            <Node name="BuildingBlocks" expanded="True">
+              <Node name="EventSourcing" expanded="True">
+                <Node name="Dependencies" expanded="True">
+                  <Node name="PackageDependencies" expanded="True" />
+                  <Node name="ProjectDependencies" expanded="True" />
+                </Node>
               </Node>
             </Node>
+            <Node name="Services" expanded="True">
+              <Node name="Catalogo" expanded="True" />
+              <Node name="Core" expanded="True" />
+              <Node name="Pagamentos" expanded="True" />
+              <Node name="Vendas" expanded="True">
+                <Node name="SibsStore.Vendas.Data" expanded="True">
+                  <Node name="VendasContext.cs" selected="True" />
+                </Node>
+                <Node name="SibsStore.Vendas.Domain" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="WebApps" expanded="True">
+              <Node name="SibsStore.WebApp.MVC" expanded="True" />
+            </Node>
           </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>_context.Pedidos</Value>
         </State>
       </Pad>
     </Pads>
@@ -35,7 +65,9 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.ItemProperties.WebApps.SibsStore.WebApp.MVC PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/SibsStore.Vendas.Domain.Application/Queries/PedidoQueries.cs" relfile="src/SibsStore.Vendas.Domain.Application/Queries/PedidoQueries.cs" line="53" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

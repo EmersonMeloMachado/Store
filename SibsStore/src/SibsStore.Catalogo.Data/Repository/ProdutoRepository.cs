@@ -46,6 +46,7 @@ namespace SibsStore.Catalogo.Data.Repository
 
         public void Atualizar(Produto produto)
         {
+            _context.ChangeTracker.Clear();
             _context.Produtos.Update(produto);
         }
 

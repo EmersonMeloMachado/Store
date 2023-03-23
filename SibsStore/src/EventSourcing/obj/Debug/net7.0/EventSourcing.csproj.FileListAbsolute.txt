@@ -1,0 +1,15 @@
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/EventSourcing/bin/Debug/net7.0/EventSourcing.deps.json
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/EventSourcing/bin/Debug/net7.0/EventSourcing.dll
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/EventSourcing/bin/Debug/net7.0/EventSourcing.pdb
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/EventSourcing/bin/Debug/net7.0/SibsStore.Core.dll
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/EventSourcing/bin/Debug/net7.0/SibsStore.Core.pdb
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/EventSourcing/obj/Debug/net7.0/EventSourcing.csproj.AssemblyReference.cache
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/EventSourcing/obj/Debug/net7.0/EventSourcing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/EventSourcing/obj/Debug/net7.0/EventSourcing.AssemblyInfoInputs.cache
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/EventSourcing/obj/Debug/net7.0/EventSourcing.AssemblyInfo.cs
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/EventSourcing/obj/Debug/net7.0/EventSourcing.csproj.CoreCompileInputs.cache
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/EventSourcing/obj/Debug/net7.0/EventSourcing.csproj.CopyComplete
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/EventSourcing/obj/Debug/net7.0/EventSourcing.dll
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/EventSourcing/obj/Debug/net7.0/refint/EventSourcing.dll
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/EventSourcing/obj/Debug/net7.0/EventSourcing.pdb
+/Users/emersonmachado/Documents/Projetos/Store/SibsStore/src/EventSourcing/obj/Debug/net7.0/ref/EventSourcing.dll
